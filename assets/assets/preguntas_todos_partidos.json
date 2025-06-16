@@ -1,0 +1,4502 @@
+[
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (1)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (2)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (3)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (4)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (5)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (6)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (7)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (8)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (9)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (10)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (11)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (12)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (13)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (14)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (15)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (16)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (17)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (18)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (19)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (20)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (21)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (22)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (23)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (24)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (25)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (26)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (27)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (28)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (29)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (30)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (31)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (32)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (33)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (34)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (35)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (36)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (37)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (38)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (39)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (40)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (41)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (42)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (43)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (44)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (45)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (46)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (47)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (48)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (49)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (50)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (51)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (52)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (53)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (54)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (55)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (56)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (57)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (58)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (59)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (60)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (61)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (62)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (63)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (64)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (65)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (66)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (67)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (68)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (69)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (70)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (71)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (72)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (73)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (74)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (75)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (76)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (77)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (78)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (79)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (80)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (81)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (82)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (83)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (84)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (85)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (86)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (87)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (88)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (89)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (90)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (91)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (92)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (93)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (94)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (95)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (96)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (97)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (98)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (99)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (100)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (101)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (102)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (103)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (104)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (105)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (106)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (107)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (108)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (109)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (110)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (111)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (112)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (113)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (114)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (115)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (116)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (117)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (118)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (119)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (120)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (121)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (122)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (123)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (124)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (125)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (126)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (127)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (128)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (129)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (130)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (131)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (132)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (133)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (134)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (135)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (136)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (137)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (138)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (139)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (140)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (141)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (142)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (143)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (144)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (145)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (146)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (147)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (148)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (149)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (150)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (151)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (152)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (153)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (154)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (155)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (156)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (157)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (158)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (159)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (160)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (161)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (162)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (163)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (164)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (165)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (166)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (167)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (168)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (169)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (170)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (171)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (172)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (173)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (174)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (175)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (176)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (177)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (178)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (179)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (180)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (181)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (182)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (183)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (184)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (185)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (186)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (187)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (188)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (189)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (190)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (191)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (192)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (193)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (194)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (195)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (196)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (197)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (198)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (199)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (200)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (201)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (202)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (203)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (204)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (205)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (206)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (207)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (208)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (209)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (210)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (211)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (212)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (213)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (214)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (215)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (216)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (217)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (218)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (219)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (220)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (221)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (222)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (223)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (224)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (225)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (226)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (227)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (228)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (229)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (230)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (231)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (232)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (233)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (234)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (235)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (236)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (237)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (238)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (239)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (240)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (241)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (242)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (243)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (244)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (245)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (246)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (247)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (248)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (249)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (250)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (251)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (252)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (253)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (254)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (255)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (256)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (257)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (258)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (259)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (260)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (261)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (262)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (263)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (264)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (265)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (266)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (267)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (268)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (269)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (270)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (271)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (272)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (273)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (274)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (275)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (276)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (277)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (278)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (279)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (280)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (281)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (282)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (283)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (284)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (285)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (286)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (287)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (288)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (289)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (290)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (291)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (292)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (293)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (294)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (295)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (296)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (297)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (298)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (299)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (300)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (301)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (302)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (303)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (304)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (305)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (306)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (307)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (308)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (309)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (310)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (311)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (312)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (313)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (314)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (315)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (316)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (317)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (318)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (319)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (320)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (321)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (322)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (323)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (324)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (325)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (326)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (327)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (328)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (329)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (330)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (331)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (332)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (333)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (334)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (335)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (336)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (337)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (338)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (339)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (340)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (341)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (342)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (343)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (344)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (345)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (346)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (347)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (348)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (349)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (350)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (351)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (352)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (353)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (354)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (355)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (356)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (357)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (358)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (359)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (360)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (361)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (362)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (363)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (364)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (365)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (366)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (367)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (368)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (369)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (370)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (371)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (372)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (373)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (374)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (375)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (376)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (377)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (378)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (379)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (380)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (381)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (382)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (383)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (384)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (385)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (386)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (387)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (388)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (389)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (390)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (391)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (392)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (393)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (394)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (395)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (396)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (397)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (398)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (399)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (400)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (401)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (402)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (403)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (404)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (405)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (406)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (407)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (408)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (409)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (410)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (411)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (412)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (413)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (414)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (415)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (416)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (417)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (418)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (419)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (420)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (421)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (422)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (423)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (424)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (425)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (426)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (427)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (428)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (429)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (430)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (431)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (432)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (433)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (434)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (435)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (436)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (437)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (438)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (439)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (440)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (441)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (442)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (443)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (444)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (445)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (446)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (447)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (448)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (449)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (450)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (451)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (452)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (453)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (454)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (455)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (456)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (457)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (458)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (459)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (460)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (461)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (462)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (463)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (464)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (465)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (466)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (467)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (468)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (469)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (470)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (471)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (472)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (473)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (474)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (475)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (476)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (477)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (478)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (479)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (480)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (481)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (482)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (483)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (484)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (485)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (486)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (487)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (488)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (489)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (490)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (491)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'Acuamed'? (492)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "VOX"
+    ],
+    "respuesta_correcta": "PP"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (493)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (494)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Dónde tuvo lugar el caso 'Abogados Melilla'? (495)",
+    "opciones": [
+      "Melilla",
+      "Madrid",
+      "Barcelona"
+    ],
+    "respuesta_correcta": "Melilla"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (496)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso '3 per cent'? (497)",
+    "opciones": [
+      "PP",
+      "CDC",
+      "PSOE"
+    ],
+    "respuesta_correcta": "CDC"
+  },
+  {
+    "pregunta": "¿Qué cargo tenía Antonio Gutiérrez Limones en el caso 'ACM'? (498)",
+    "opciones": [
+      "Ministro de Justicia",
+      "Ex-alcalde y diputado",
+      "Presidente del Senado"
+    ],
+    "respuesta_correcta": "Ex-alcalde y diputado"
+  },
+  {
+    "pregunta": "¿Qué partido está implicado en el caso 'ACM'? (499)",
+    "opciones": [
+      "PSOE",
+      "PP",
+      "Ciudadanos"
+    ],
+    "respuesta_correcta": "PSOE"
+  },
+  {
+    "pregunta": "¿Cuál es el coste estimado del caso 'ACM' según el archivo? (500)",
+    "opciones": [
+      "500 mil euros",
+      "5 millones de euros",
+      "50 mil euros"
+    ],
+    "respuesta_correcta": "500 mil euros"
+  }
+]
